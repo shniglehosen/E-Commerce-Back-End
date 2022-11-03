@@ -35,4 +35,4 @@ Seed the data by using npm run seed. invoke the code by using node server.js
 Use Insomnia to run through CRUD
 
 ## Video
-[text](https://)
+[Google Drive](https://drive.google.com/file/d/1FaIBDQUfY208yP21RAF8723N11H0IjuQ/view)
